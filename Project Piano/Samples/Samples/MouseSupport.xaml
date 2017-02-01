@@ -1,0 +1,10 @@
+﻿<pq:ITableWindow x:Class="Samples.MouseSupport"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:pq="http://schemas.pqlabs.com/itable/2010"
+        Title="MouseSupport" Width="800" Height="600" SizeChanged="ITableWindow_SizeChanged">
+    <Canvas>
+        <Image Name="myImage" Source="penguins.jpg" Width="200" Height="150" Canvas.Left="83" Canvas.Top="144" />
+        <Button Name="myButton" Width="200" Height="43" Click="Button_Click" Canvas.Left="396" Canvas.Top="50" TouchDown="myButton_TouchDown">Click me</Button>
+    </Canvas>
+</pq:ITableWindow>

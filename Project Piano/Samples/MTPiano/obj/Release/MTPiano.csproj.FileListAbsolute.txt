@@ -1,0 +1,6 @@
+C:\Users\Steve\Desktop\Samples\MTPiano\obj\Release\MTPiano.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\Samples\MTPiano\obj\Release\Keyboard.g.cs
+C:\Users\Steve\Desktop\Samples\MTPiano\obj\Release\App.g.cs
+C:\Users\Steve\Desktop\Samples\MTPiano\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Steve\Desktop\Samples\MTPiano\obj\Release\MTPiano_MarkupCompile.cache
+C:\Users\Steve\Desktop\Samples\MTPiano\obj\Release\MTPiano_MarkupCompile.lref

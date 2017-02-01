@@ -1,0 +1,3 @@
+C:\Users\Steve\Desktop\Samples\Samples\obj\x86\Debug\Samples.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\Samples\Samples\obj\x86\Debug\App.g.cs
+C:\Users\Steve\Desktop\Samples\Samples\obj\x86\Debug\Samples_MarkupCompile.cache

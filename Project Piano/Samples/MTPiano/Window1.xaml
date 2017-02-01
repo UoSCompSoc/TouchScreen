@@ -1,0 +1,17 @@
+﻿<pq:ITableWindow x:Class="MTPiano.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:pq="http://schemas.pqlabs.com/itable/2010"
+    xmlns:MTPiano="clr-namespace:MTPiano"
+    Title="MTPiano" Background="Black"
+    WindowState="Maximized" WindowStyle="None">
+    <Grid Width="1016" Height="768" >
+        <!-- main panel with piano key images and button -->
+        <Viewbox Width="900" Name="pianoView">
+            <Grid>
+                <!-- piano keyboard -->
+                <MTPiano:Keyboard x:Name="keyboard" RenderTransformOrigin="0.5,0.5"/>
+            </Grid>
+        </Viewbox>
+    </Grid>
+</pq:ITableWindow>

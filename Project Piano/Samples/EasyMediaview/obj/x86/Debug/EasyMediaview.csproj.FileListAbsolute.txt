@@ -1,0 +1,6 @@
+C:\Program Files (x86)\PQLabs\MultiTouch SDK\wpf\Samples\EasyMediaview\obj\x86\Debug\EasyMediaview.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\PQLabs\MultiTouch SDK\wpf\Samples\EasyMediaview\obj\x86\Debug\App.g.cs
+C:\Program Files (x86)\PQLabs\MultiTouch SDK\wpf\Samples\EasyMediaview\obj\x86\Debug\EasyMediaview_MarkupCompile.cache
+C:\Users\Steve\Desktop\Samples\EasyMediaview\obj\x86\Debug\EasyMediaview.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\Samples\EasyMediaview\obj\x86\Debug\App.g.cs
+C:\Users\Steve\Desktop\Samples\EasyMediaview\obj\x86\Debug\EasyMediaview_MarkupCompile.cache

@@ -1,0 +1,16 @@
+﻿<pq:ITableWindow x:Class="Samples.AutoDebugWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"    
+    xmlns:pq="http://schemas.pqlabs.com/itable/2010"
+    Title="AutoDebugWindow" WindowState="Maximized" WindowStyle="None">
+
+    <Grid x:Name="MainRoot" >
+        <Canvas x:Name="LayoutRoot">
+            <Canvas x:Name="canvas" Background="AliceBlue" Width="800" Height="600">
+                <Image Name="image" Source="penguins.jpg" Width="800" Height="800" Canvas.Left="200" Canvas.Top="200"/>
+                <ListBox Name="lb" Width="100" Height="100"/>
+            </Canvas>
+        </Canvas>
+        <!--<Canvas Margin="0,0,0,0" Name="MultiTouchBlobTraceCanvas"/>-->
+    </Grid>
+</pq:ITableWindow>

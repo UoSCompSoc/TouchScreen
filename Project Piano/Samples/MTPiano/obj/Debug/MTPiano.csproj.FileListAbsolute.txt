@@ -1,0 +1,33 @@
+C:\Program Files (x86)\PQLabs\MultiTouch SDK\wpf\Samples\MTPiano\bin\Debug\MTPiano.exe
+C:\Program Files (x86)\PQLabs\MultiTouch SDK\wpf\Samples\MTPiano\bin\Debug\MTPiano.pdb
+C:\Program Files (x86)\PQLabs\MultiTouch SDK\wpf\Samples\MTPiano\bin\Debug\PQMultiTouch.dll
+C:\Program Files (x86)\PQLabs\MultiTouch SDK\wpf\Samples\MTPiano\obj\Debug\MTPiano.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\PQLabs\MultiTouch SDK\wpf\Samples\MTPiano\obj\Debug\Keyboard.g.cs
+C:\Program Files (x86)\PQLabs\MultiTouch SDK\wpf\Samples\MTPiano\obj\Debug\Window1.g.cs
+C:\Program Files (x86)\PQLabs\MultiTouch SDK\wpf\Samples\MTPiano\obj\Debug\App.g.cs
+C:\Program Files (x86)\PQLabs\MultiTouch SDK\wpf\Samples\MTPiano\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Program Files (x86)\PQLabs\MultiTouch SDK\wpf\Samples\MTPiano\obj\Debug\MTPiano_MarkupCompile.cache
+C:\Program Files (x86)\PQLabs\MultiTouch SDK\wpf\Samples\MTPiano\obj\Debug\MTPiano_MarkupCompile.lref
+C:\Program Files (x86)\PQLabs\MultiTouch SDK\wpf\Samples\MTPiano\obj\Debug\Keyboard.baml
+C:\Program Files (x86)\PQLabs\MultiTouch SDK\wpf\Samples\MTPiano\obj\Debug\Window1.baml
+C:\Program Files (x86)\PQLabs\MultiTouch SDK\wpf\Samples\MTPiano\obj\Debug\MTPiano.g.resources
+C:\Program Files (x86)\PQLabs\MultiTouch SDK\wpf\Samples\MTPiano\obj\Debug\MTPiano.Properties.Resources.resources
+C:\Program Files (x86)\PQLabs\MultiTouch SDK\wpf\Samples\MTPiano\obj\Debug\MTPiano.csproj.GenerateResource.Cache
+C:\Program Files (x86)\PQLabs\MultiTouch SDK\wpf\Samples\MTPiano\obj\Debug\MTPiano.exe
+C:\Program Files (x86)\PQLabs\MultiTouch SDK\wpf\Samples\MTPiano\obj\Debug\MTPiano.pdb
+C:\Users\Steve\Desktop\Samples\MTPiano\bin\Debug\MTPiano.exe
+C:\Users\Steve\Desktop\Samples\MTPiano\bin\Debug\MTPiano.pdb
+C:\Users\Steve\Desktop\Samples\MTPiano\obj\Debug\MTPiano.csprojResolveAssemblyReference.cache
+C:\Users\Steve\Desktop\Samples\MTPiano\obj\Debug\Keyboard.g.cs
+C:\Users\Steve\Desktop\Samples\MTPiano\obj\Debug\Window1.g.cs
+C:\Users\Steve\Desktop\Samples\MTPiano\obj\Debug\App.g.cs
+C:\Users\Steve\Desktop\Samples\MTPiano\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Steve\Desktop\Samples\MTPiano\obj\Debug\MTPiano_MarkupCompile.cache
+C:\Users\Steve\Desktop\Samples\MTPiano\obj\Debug\MTPiano_MarkupCompile.lref
+C:\Users\Steve\Desktop\Samples\MTPiano\obj\Debug\Keyboard.baml
+C:\Users\Steve\Desktop\Samples\MTPiano\obj\Debug\Window1.baml
+C:\Users\Steve\Desktop\Samples\MTPiano\obj\Debug\MTPiano.g.resources
+C:\Users\Steve\Desktop\Samples\MTPiano\obj\Debug\MTPiano.Properties.Resources.resources
+C:\Users\Steve\Desktop\Samples\MTPiano\obj\Debug\MTPiano.csproj.GenerateResource.Cache
+C:\Users\Steve\Desktop\Samples\MTPiano\obj\Debug\MTPiano.exe
+C:\Users\Steve\Desktop\Samples\MTPiano\obj\Debug\MTPiano.pdb
